@@ -1,0 +1,7 @@
+Create Table tbDentista(
+UUID_Dentista VARCHAR2(100),
+Nombre_Dentista VARCHAR2(100),
+Edad_Dentista INT,
+Peso_Dentista NUMBER,
+Correo_Dentista VARCHAR2(100)
+);
